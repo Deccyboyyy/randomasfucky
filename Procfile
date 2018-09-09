@@ -1,1 +1,1 @@
-python Dyller.py
+worker: python3.6 Dyller.py
