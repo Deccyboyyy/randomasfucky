@@ -1,1 +1,1 @@
-python2 Dyller.py
+python Dyller.py
